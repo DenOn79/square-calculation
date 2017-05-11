@@ -1,0 +1,4 @@
+Square 5, 7, 9
+Circle 6, 3
+Triangle 8, 4
+Square 7
