@@ -41,7 +41,7 @@ data.each do |line|
          puts "Triangle: "
          (1..number.to_i).each do |i|
          triangle = Triangle.new
-         triangle.areaCalc(shape[i].to_i, 5)
+         triangle.areaCalc(shape[i].to_i, 8)
       end
       end
 end
