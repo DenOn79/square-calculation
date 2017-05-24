@@ -1,4 +1,6 @@
-Square 5, 7, 9
-Circle 6, 3
-Triangle 8, 4
-Square 7
+Rectangle: 5, 7, 9, 11, 6
+Circle: 6, 3
+Oval: 4, 16, 28
+Triangle: 8, 4, 5, 8
+Pentagone: 5, 8, 11, 23
+Rectangle: 7, 4, 9, 5
